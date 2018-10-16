@@ -195,26 +195,5 @@ body{
 	}
 }
 
-@media screen and (max-width: 768px){
-	.registro{
-		margin-right:200px; 
-		margin-left:200px;
-	}
 
-	.registrate{
-		margin-right:200px; 
-		margin-left:200px;
-	}
-}
 
-@media screen and (max-width: 1024px){
-	.registro{
-		margin-right:350px; 
-		margin-left:350px;
-	}
-
-	.registrate{
-		margin-right:350px; 
-		margin-left:350px;
-	}
-}
