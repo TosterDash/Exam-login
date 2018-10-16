@@ -1,0 +1,220 @@
+body{
+	margin: 0 auto;
+	font-family: 'Roboto', sans-serif;
+}
+
+.audifonos{
+	font-size: 50px;
+	text-align: center;
+	background-color: #0C6798;
+	color: white;
+	width: 100%;
+}
+
+.registro{
+	text-align: center;
+	background-color: #3B5998;
+	margin-left: 550px;
+	margin-right: 550px;
+
+	padding-top: 1px;
+	padding-bottom: 1px;
+
+	margin-top: 30px;
+
+	border-radius: 25px;
+
+	color: white;
+}
+
+.registro a{
+	text-decoration: none;
+	color: white;
+}
+
+.registro a:hover{
+	color: #9A9797;
+	background-color: #314E80
+}
+
+.linea-div{
+	text-align: center;
+
+}
+
+.linea{
+	display: inline-block;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.linea h2{
+	margin-bottom: 0px;
+	margin-top: 20px
+
+}
+
+.linea hr{
+	width: 125px;
+
+
+}
+
+.email-input{
+	display: block;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+	color: #B9B9B9;
+	border-radius: 5px;
+	border-width: 1px;
+	
+}
+
+.usuario-input{
+	display: block;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+	color: #B9B9B9;
+	border-radius: 5px;
+	border-width: 1px;
+}
+
+.contraseña{
+	display: block;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+	color: #B9B9B9;
+	border-radius: 5px;
+	border-width: 1px;
+}
+
+.rpcontra{
+	display: block;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+	color: #B9B9B9;
+	border-radius: 5px;
+	border-width: 1px;
+}
+
+.fecha{
+	display: block;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+	color: #B9B9B9;
+	border-radius: 5px;
+	border-width: 1px;
+	
+}
+
+.terminos{
+	display: block;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+	font-size: 11px;
+	border-style: none;
+
+	
+}
+
+.registrate{
+	text-align: center;
+	background-color: #2468B9;
+	margin-left: 550px;
+	margin-right: 550px;
+
+	padding-top: 1px;
+	padding-bottom: 1px;
+
+	margin-top: 30px;
+
+	border-radius: 25px;
+
+	color: white;
+	
+	margin-bottom: 0;
+}
+
+.registrate-div a{
+	text-decoration: none;
+	color: white;
+}
+
+.registrate-div a:hover{
+	color: black;
+	
+}
+
+.fondo{
+	display: inline-block;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	
+}
+
+.fondo h4{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 11px;
+
+}
+
+.sesion{
+	color: #0C6798;
+}
+
+.cuenta{
+	color: #9A9797;
+}
+
+.fondo-div{
+	text-align: center;
+}
+
+@media screen and (max-width: 480px){
+	.registro{
+		margin-right:50px; 
+		margin-left:50px;
+	}
+
+	.registrate{
+		margin-right:50px; 
+		margin-left:50px;
+	}
+}
+
+@media screen and (max-width: 768px){
+	.registro{
+		margin-right:200px; 
+		margin-left:200px;
+	}
+
+	.registrate{
+		margin-right:200px; 
+		margin-left:200px;
+	}
+}
+
+@media screen and (max-width: 1024px){
+	.registro{
+		margin-right:350px; 
+		margin-left:350px;
+	}
+
+	.registrate{
+		margin-right:350px; 
+		margin-left:350px;
+	}
+}
